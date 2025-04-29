@@ -1,8 +1,8 @@
 # EX-21-POINTERS
 
-NAME : YASHWANTH K
+NAME : ASTLE JOE A S
 
-REG NO : 212224040369
+REG NO : 212224240019
 
 # AIM:
 Write a C program to convert a 23.65 into 25 using pointer
